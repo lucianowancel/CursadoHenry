@@ -1,2 +1,2 @@
-# CursadoHenry
-Repositorio de prueba de modulo 2 Henry
+Luciano Wancel
+Proyecto prueba de como clonar un repositorio desde github y enviarlo a mi directorio local
